@@ -8,8 +8,6 @@
 
 ## Flight Search
     Prompt the user to enter the origin and destination airports, as well as the travel date. Validate the input to ensure it is a valid airport code and a future date.
-<br>
-
 ## Flight Selection
     Display a list of available flights based on the search criteria. Allow the user to choose a flight by entering the flight number.
 ## Seat Selection
